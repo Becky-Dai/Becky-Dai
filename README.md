@@ -35,4 +35,5 @@ I build web and mobile applications that combine full-stack engineering with AI-
 
 ## Let's Connect / 联系我
 
-📧 beiqidai0115@gmail.com &nbsp;&nbsp; 📍 Sydney, Australia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beiqi%20Becky%20Dai-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/beiqi-becky-dai-b1a5462b0/)
+&nbsp;&nbsp; 📧 beiqidai0115@gmail.com &nbsp;&nbsp; 📍 Sydney, Australia
