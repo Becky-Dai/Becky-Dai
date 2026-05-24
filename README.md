@@ -9,10 +9,10 @@ I build web and mobile applications that combine full-stack engineering with AI-
 
 ## Tech Stack / 技术栈
 
-**Frontend:** React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React Native &nbsp;·&nbsp; Expo  
-**Backend:** Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; Django  
+**Frontend:** React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React Native &nbsp;·&nbsp; Expo  
+**Backend:** Node.js &nbsp;·&nbsp; Python &nbsp;·&nbsp; Django &nbsp;·&nbsp; Flask &nbsp;·&nbsp; FastAPI  
 **Database:** Neo4j &nbsp;·&nbsp; SQL  
-**AI / ML:** Recommendation Systems &nbsp;·&nbsp; Knowledge Graphs
+**AI / ML:** DeepSeek &nbsp;·&nbsp; AI Agents &nbsp;·&nbsp; Recommendation Systems &nbsp;·&nbsp; Knowledge Graphs
 
 ---
 
@@ -20,6 +20,8 @@ I build web and mobile applications that combine full-stack engineering with AI-
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [FinGTM Agent](https://github.com/ALBEGroup/FinGTM-Agent) | B2B FinTech GTM Copilot — turn a product brief into a 16-section go-to-market strategy in 90 seconds | Next.js · FastAPI · DeepSeek V3 |
+| [Job Hunter](https://github.com/Becky-Dai/Job_Hunter) | AI-powered job application assistant — resume-JD match analysis, rewrite suggestions & 30-day learning plan | Python · Flask · DeepSeek API |
 | [Between Sips](https://github.com/Becky-Dai/Between-Sips) | Wine e-commerce platform with cart & checkout | React · TypeScript · Node.js |
 | [Flower Knowledge Graph](https://github.com/Becky-Dai/Flower-Knowledge-Graph-Visualization) | Interactive knowledge graph visualization | Python · Django · Neo4j · ECharts |
 | [Movie Recommender](https://github.com/Becky-Dai/AutoRec-recommendation) | AutoRec deep learning recommendation model | Python |
@@ -28,8 +30,8 @@ I build web and mobile applications that combine full-stack engineering with AI-
 
 ## Currently / 正在做
 
-- Building a React Native mobile app with Expo
-- Exploring AI integration in full-stack applications
+- Building AI Agent applications with DeepSeek and OpenAI Agents SDK
+- Exploring full-stack AI integration across web and mobile
 
 ---
 
